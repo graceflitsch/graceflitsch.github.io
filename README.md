@@ -1,1 +1,1 @@
-Notebook for Poster Presentation: [EDA for actionable insights](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/GNB3.html)
+Notebook for Poster Presentation: [GNB3](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/GNB3.html)
