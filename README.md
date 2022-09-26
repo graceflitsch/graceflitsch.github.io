@@ -1,2 +1,2 @@
 # graceflitsch.github.io
-theme: minima
+# theme: minima
