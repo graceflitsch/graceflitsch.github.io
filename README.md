@@ -5,6 +5,6 @@ Hello, my name is Grace Flitsch! I'm a junior at Wheaton College studying Math w
 A PDF of the noteboook for my poster presentation: [GNB3.pdf](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/GNB3.pdf)
 
 
-HTML file containing code for my notebook for my poster presentation: [GNB3.html](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/GNB3.html)
+An HTML file containing code for my notebook for my poster presentation: [GNB3.html](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/GNB3.html)
 
 
