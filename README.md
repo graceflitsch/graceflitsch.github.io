@@ -14,5 +14,5 @@ A PDF of the poster produced from the notebook: [GFPoster.pdf](https://graceflit
 
 ### This poster gives an overview of the EDA I conducted on data from AwanTunai, a company that my professor works with. The poster was presented at Wheaton College for the Fall 2022 STEM poster session.
 
-
+<iframe width="100%" height="400" src="Data Science Poster (4).pdf">
 
