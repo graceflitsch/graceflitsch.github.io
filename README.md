@@ -1,5 +1,5 @@
 # Personal Portfolio
-Hello, my name is Grace Flitsch! I'm a junior at Wheaton College studying Math with Statistics with a minor in Computer Science. This portfolio showcases the work done in my Math 493 Mentored Research Seminar course. The purpose of this course and the projects in it is to become familiar with Data Science methods and tools. As the semester continues, I will update my portfolio with completed and pending projects.
+Hello, my name is Grace Flitsch! I'm a Junior at Wheaton College studying Math with Statistics with a minor in Computer Science. This portfolio showcases the work done in my Math 493 Mentored Research Seminar course. The purpose of this course and the projects in it is to become familiar with Data Science methods and tools. As the semester continues, I will update my portfolio with completed and pending projects.
 
 ![image](grace.jpeg)
 
