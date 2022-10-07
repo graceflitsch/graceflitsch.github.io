@@ -8,6 +8,8 @@ This poster gives an overview of the EDA I conducted on data from AwanTunai, a c
 
 <iframe width="100%" height="400" src="Data Science Poster (4).pdf">
 
+  
+  
 
 A PDF of the noteboook for my poster presentation: [GNB3.pdf](https://graceflitsch.github.io/GNB3.pdf)
 
