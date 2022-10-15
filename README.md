@@ -17,4 +17,4 @@ A PDF of the noteboook for my poster presentation: [GNB3.pdf](https://graceflits
 An HTML file containing code for my notebook for my poster presentation: [GNB3.html](https://graceflitsch.github.io/GNB3.html)
 
 
-A PDF of the poster produced from the notebook: [GFPoster.pdf](https://graceflitsch.github.io/Data%20Science%20Poster%20(4).pdf)
+
