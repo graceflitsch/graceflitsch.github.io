@@ -15,7 +15,7 @@ This poster gives an overview of the EDA I conducted on data from AwanTunai, a c
 A PDF of the noteboook for my poster presentation: [GNB3.pdf](https://graceflitsch.github.io/GNB3.pdf)
 
 
-An HTML file containing code for my notebook for my poster presentation: [GNB3.html](https://graceflitsch.github.io/GNB3.html)
+An HTML file of the notebook for my poster presentation: [GNB3.html](https://graceflitsch.github.io/GNB3.html)
 
 
 
