@@ -14,7 +14,7 @@ A basket recommendation tool created using data from supplier-merchant transacti
 
 This poster gives an overview of the EDA I conducted on data from AwanTunai, a company that my professor works with. The poster was presented at Wheaton College for the Fall 2022 STEM poster session.
 
-<iframe  frameborder="0" 
+!<iframe  frameborder="0" 
         style=" width: 100%; height: 110%;" src="Data Science Poster (4).pdf">
       </iframe>
 
