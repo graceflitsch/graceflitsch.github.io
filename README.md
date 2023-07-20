@@ -10,6 +10,7 @@ Statistical Missions: Determining a Machine Learning Model of Gospel Access. [St
 Tennis Analytics - Predictive Modeling of ATP Match Data. [ind.noedit 2.pdf](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/ind_noedit%202.pdf) 
 
 **Math 463 - Mathematical Statistics:**
+
 A Statistical Analysis of Factors Contributing to Obesity.
 
 Math 465 - Mentored Research Seminar in Data Science:
@@ -22,6 +23,7 @@ This poster gives an overview of the EDA I conducted on data from AwanTunai, a c
 ![image](Poster.jpeg)
 
 **Computer Science 355: Software Development:**
+
 Programmar: A speed typing development program and game for coders. 
 
 
