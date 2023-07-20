@@ -19,7 +19,7 @@ A basket recommendation tool created using data from supplier-merchant transacti
 
 This poster gives an overview of the EDA I conducted on data from AwanTunai, a company that my professor works with. The poster was presented at Wheaton College for the Fall 2022 STEM poster session.
 
-![image](Screenshot 2023-07-20 at 10.14.36 AM)
+![image](Poster.jpeg)
 
 Computer Science 355: Software Development:
 Programmar: A speed typing development program and game for coders. 
