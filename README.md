@@ -14,7 +14,7 @@ Tennis Analytics - Predictive Modeling of ATP Match Data. [Tennis Analytics](htt
 A Statistical Analysis of Factors Contributing to Obesity.
 
 **Math 465 - Mentored Research Seminar in Data Science:**
-Soccer Analytics Research Synthesis Project: [Method of Soccer Machine Learning Synthesis](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/Data_Science_Research_Final%20(1).pdf) 
+Soccer Analytics Research Synthesis Project: [Methods of Soccer Machine Learning Synthesis](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/Data_Science_Research_Final%20(1).pdf) 
 
 A basket recommendation tool created using data from supplier-merchant transactions over 15 months. [Basket Recommender](https://github.com/graceflitsch/basketsrec/blob/main/GNB5.ipynb)
 
