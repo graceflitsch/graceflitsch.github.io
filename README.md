@@ -13,7 +13,7 @@ Hello! I'm a Senior at Wheaton College studying Statistics with a minor in Compu
 
 [A Statistical Analysis of Factors Contributing to Obesity](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/rough--1-.pdf) 
 
-**Math 465 - Mentored Research Seminar in Data Science:**
+**Math 464 - Mentored Research Seminar in Data Science:**
 
 [Synthesis of Machine Learning Methods for Analyzing Soccer](https://github.com/graceflitsch/graceflitsch.github.io/blob/main/Data_Science_Research_Final%20(1).pdf) 
 
